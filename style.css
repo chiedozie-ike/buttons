@@ -23,10 +23,6 @@
   margin-left: auto;
   margin-right: auto;
   padding: 2rem;
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* align-items: center; */
   background-color: var(--clr-gray-100);
   min-height: 100vh;
   max-width: 60ch;
